@@ -1,0 +1,24 @@
+*{
+    font-family: 'Ubuntu',Arial, Helvetica, sans-serif;
+    
+}
+
+body {
+    background: url('../img/fondopepito.jpg') no-repeat;
+    background-size: cover;
+    background-color: midnightblue;
+    color: aliceblue;
+}
+
+a {
+    color: rgb(233, 213, 205);
+    text-decoration: none;
+}
+
+.form-validate .button {
+    color: aliceblue;
+}
+
+.container {
+    padding: 0 1rem;
+}
